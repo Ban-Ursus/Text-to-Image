@@ -1,0 +1,10 @@
+
+Generate Image from Text
+: https://alpha2phi.medium.com/generate-image-from-text-c84daaddd75b
+
+BigGAN code
+: https://github.com/alpha2phi/jupyter-notebooks/blob/main/nbs/08_clip_biggan.ipynb
+
+
+DALL-E code
+: https://github.com/alpha2phi/jupyter-notebooks/blob/main/nbs/07_dalle.ipynb
